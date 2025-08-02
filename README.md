@@ -1,4 +1,4 @@
-# Master2-Data-Science-Pr6-Impl-mentez-un-mod-le-de-scoring
+# Master2-Data-Science-Pr6-Implémentez-un-modèle-de-scoring
 
 Formation Expert en Data Science - OpenClassRoom - Mai 2025
 
